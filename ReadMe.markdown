@@ -10,7 +10,7 @@ Want to get straight into InfinityMint? Well this is the easiest solution for yo
 
 ## 🗿 Installation
 
-**Simply use this repository as a template**. If you are running this via a workspace then you can simply run `npm start` in the extracted folder else you will need to install your node modules by using `npm i`. By using this repository as a template it should automatically create a new git repository for you. You can then go ahead and make this new repository you create private. You might encounter issues if you try using the bash terminal, instead use make sure to use the zsh terminal.
+**Simply use this repository as a template**. If you are running this via a workspace then you can simply run `npm start` in the extracted folder else you will need to install your node modules by using `npm i`. By using this repository as a template it should automatically create a new git repository for you. You can then go ahead and make this new repository private or keep it public. You might encounter issues if you try using the bash terminal, instead use make sure to use the zsh terminal.
 
 Please note that if you are running this through an online workspace, be patatient. Wait for the Github workspace commands to fully complete before running `npm start`.
 
