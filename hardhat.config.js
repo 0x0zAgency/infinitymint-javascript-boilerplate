@@ -3,7 +3,6 @@ const {
   debugLog,
   loadInfinityMint,
   prepareConfig,
-  readSession,
 } = require("infinitymint/dist/app/helpers");
 
 //require dotenv
